@@ -9,13 +9,11 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-> **Thesis**: *Sketching for Large-Scale Learning of Mixture Models* [[Pdf]](https://tel.archives-ouvertes.fr/tel-01620815/){:target="_blank"}
-
 {% include base_path %}
 
-## Preprint
+## Conference
 
-{% for post in site.preprint reversed %}
+{% for post in site.conference reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
@@ -25,10 +23,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Conference
+## Preprint
 
-{% for post in site.conference reversed %}
+{% for post in site.preprint reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-

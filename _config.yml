@@ -73,13 +73,13 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-82112362-1
+    tracking_id          : 
 
 
 # Site Author
 author:
   name             : "Léon Zheng"
-  avatar           : "profile.png"
+  avatar           : "bio-photo.png"
   bio              : "PhD student at valeo.ai / ENS Lyon. <br> <i>leon.zheng [at] valeo [dot] com</i>"
   location         : "Paris and Lyon, France"
   employer         :
