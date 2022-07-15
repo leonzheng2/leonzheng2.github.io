@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nicolas Keriven"
+title                    : "Léon Zheng"
 title_separator          : "-"
-name                     : &name "Nicolas Keriven"
-description              : &description "CNRS Researcher in Grenoble"
-url                      : https://nkeriven.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Léon Zheng"
+description              : &description "PhD student"
+url                      : https://leonzheng2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "nkeriven/nkeriven.github.io"
+repository               : "leonzheng2/leonzheng2.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -48,7 +48,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : "b9H3uF0t7-ImZpD134yHebyAU0cv8oVqIEra2PDWXPY"
+google_site_verification :
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
@@ -73,17 +73,17 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : UA-82112362-1 
+    tracking_id          : UA-82112362-1
 
 
 # Site Author
 author:
-  name             : "Nicolas Keriven"
+  name             : "Léon Zheng"
   avatar           : "profile.png"
-  bio              : "CNRS researcher in signal processing and machine learning, GAIA team, GIPSA-lab. <br> <i>nicolas.keriven [at] cnrs [dot] fr</i>"
-  location         : "Grenoble, France"
+  bio              : "PhD student at valeo.ai / ENS Lyon. <br> <i>leon.zheng [at] valeo [dot] com</i>"
+  location         : "Paris and Lyon, France"
   employer         :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=7gq9f6CfBnAC&hl"
   email            :
   uri              :
   bitbucket        :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "nkeriven"
+  github           : "leonzheng2"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : 
+  linkedin         : "leon-zheng"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :

@@ -4,25 +4,25 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
-    
-  - title: "Code"
-    url: /code/    
+    url: /talks/
 
-  - title: "GRandMa"
-    url: /grandma/   
-    
-  - title: "Events"
-    url: /events/  
-    
+  # - title: "Code"
+  #   url: /code/
+
+  # - title: "GRandMa"
+  #   url: /grandma/
+
+  # - title: "Events"
+  #   url: /events/
+
   # - title: "Portfolio"
     # url: /portfolio/
-        
+
 #  - title: "News"
  #   url: /year-archive/
-    
+
   # - title: "CV"
     # url: /cv/
-    
+
   # - title: "Guide"
     # url: /markdown/
