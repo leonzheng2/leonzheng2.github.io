@@ -46,7 +46,7 @@
 	{% if post.collection == 'talks' %}
 		{{ post.date_text }}
 		{% if post.slideurl and post.posterurl and post.videourl%}
-			<a href=" {{ post.slideurl }} "><u>Slides</u></a>, <a href=" {{ post.posterurl }} "><u>Poster</u></a>, , <a href=" {{ post.videourl }} "><u>videourl</u></a>
+			<a href=" {{ post.slideurl }} "><u>Slides</u></a>, <a href=" {{ post.posterurl }} "><u>Poster</u></a>, , <a href=" {{ post.videourl }} "><u>Video</u></a>
 		{% elif post.slideurl and post.posterurl %}
 			<a href=" {{ post.slideurl }} "><u>Slides</u></a>, <a href=" {{ post.posterurl }} "><u>Poster</u></a>
 		{% elif post.posterurl and post.videourl %}
