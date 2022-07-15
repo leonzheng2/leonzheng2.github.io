@@ -17,11 +17,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Journal
+<!-- ## Journal -->
 
-{% for post in site.journal reversed %}
+<!-- {% for post in site.journal reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
 
 ## Preprint
 
