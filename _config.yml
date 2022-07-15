@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "PhD student at valeo.ai (Paris) and ENS Lyon"
   location         : "Paris, Lyon, France"
-  employer         : Valeo CDA
+  employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=fr&user=7gq9f6CfBnAC"
-  email            :
+  email            : "leon.zheng [at] valeo [dot] com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/leon-zheng/"
+  linkedin         : "leon-zheng"
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
