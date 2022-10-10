@@ -1,8 +1,8 @@
 ---
 authors: "Léon Zheng, Elisa Riccietti, Rémi Gribonval"
 title: "Efficient identification of butterfly sparse matrix factorizations"
-collection: preprint
-date: 2022-04-05
-venue: 'arXiv Preprint'
-paperurl: 'https://arxiv.org/abs/2110.01230'
+collection: journal
+date: 2022-10-10
+venue: 'SIAM Journal on Mathematics of Data Science'
+paperurl: 'https://hal.inria.fr/hal-03362626'
 ---
