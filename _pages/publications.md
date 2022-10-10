@@ -11,17 +11,17 @@ author_profile: true
 
 {% include base_path %}
 
+## Journal
+
+{% for post in site.journal reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 ## Conference
 
 {% for post in site.conference reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-<!-- ## Journal -->
-
-<!-- {% for post in site.journal reversed %}
-  {% include archive-single.html %}
-{% endfor %} -->
 
 ## Preprint
 
