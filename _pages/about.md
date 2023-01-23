@@ -12,4 +12,5 @@ I am a second-year PhD student at [valeo.ai](https://www.valeo.com/en/valeo-ai/)
 I graduated from [École Polytechnique](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program) (X2016) and [Master M2 "Mathématiques, Vision, Apprentissage"](https://www.master-mva.com/) at ENS Paris-Saclay in 2020.
 
 News:
-* Our paper on [self-supervised learning with rotation-invariant kernels](https://arxiv.org/abs/2208.00789) has been accepted at ICLR 2023 (notable-top-25%).
+* 2023/01: Our [paper](https://arxiv.org/abs/2208.00789) on self-supervised learning with rotation-invariant kernels has been accepted at ICLR 2023 (notable-top-25%).
+* 2022/11: I will present our [work](https://arxiv.org/abs/2110.01230) on butterfly matrix factorization during the minisymposium "Butterfly factorizations: Algorithms, applications, and theory" at SIAM CSE'23. 
