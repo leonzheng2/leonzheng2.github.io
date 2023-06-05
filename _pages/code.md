@@ -4,6 +4,8 @@ title: "Code"
 permalink: /code/
 author_profile: true
 ---
+The code for most papers is available on <span style="color:blue">[Github](https://github.com/leonzheng2)</span>.
+
 
 # Self-supervised learning with rotation-invariant kernels
 
@@ -27,7 +29,7 @@ If you use this toolbox, please cite the following paper: "Self-supervised learn
 
 If you use this toolbox, please cite the following paper: "Efficient Identification of Butterfly Sparse Matrix Factorizations", L. Zheng, E. Riccietti, R. Gribonval, *SIAM Journal on Mathematics of Data Science*, 5(1), 22-49., 2023.
 
-<span style="color:blue">[here][Link to paper](https://arxiv.org/abs/2110.01230)</span>.
+<span style="color:blue">[Link to paper](https://arxiv.org/abs/2110.01230)</span>.
 
 **Abstract**: Fast transforms correspond to factorizations of the form $Z=X^{(1)} ... X^{(J)}$, where each factor $X^{(\ell)}$ is sparse and possibly structured. This paper investigates essential uniqueness of such factorizations, i.e., uniqueness up to unavoidable scaling ambiguities. Our main contribution is to prove that any N×N matrix having the so-called butterfly structure admits an essentially unique factorization into J butterfly factors (where $N=2^J$), and that the factors can be recovered by a hierarchical factorization method, which consists in recursively factorizing the considered matrix into two factors. This hierarchical identifiability property relies on a simple identifiability condition in the two-layer and fixed-support setting. This approach contrasts with existing ones that fit the product of butterfly factors to a given matrix via gradient descent. The proposed method can be applied in particular to retrieve the factorization of the Hadamard or the discrete Fourier transform matrices of size $N=2^J$. Computing such factorizations costs $O(N^2)$, which is of the order of dense matrix-vector multiplication, while the obtained factorizations enable fast $O(N \log N)$ matrix-vector multiplications and have the potential to be applied to compress deep neural networks.
 
