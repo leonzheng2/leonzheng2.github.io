@@ -18,5 +18,5 @@ I am looking for a post-doc position in academia or a researcher position in ind
 News:
 * 2023/09: I will present our [work](https://arxiv.org/abs/2307.00820) on butterfly factorization with unknown permutations at GRETSI 2023.
 * 2023/05: I will present our work on butterfly factorization at Université de Mons.
-* 2023/01: Our [paper](https://arxiv.org/abs/2208.00789) on self-supervised learning with rotation-invariant kernels has been accepted at ICLR 2023 (notable-top-25%).
+* 2023/01: Our [paper](https://arxiv.org/abs/2208.00789) on self-supervised learning with rotation-invariant kernels has been accepted at ICLR 2023.
 * 2022/11: I will present our [work](https://arxiv.org/abs/2110.01230) on butterfly matrix factorization during the minisymposium "Butterfly factorizations: Algorithms, applications, and theory" at SIAM CSE'23.
