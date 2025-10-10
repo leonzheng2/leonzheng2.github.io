@@ -1,5 +1,5 @@
 ---
-title: "Fast Inference with Kronecker-Sparse Matrices"
+title: "Fast inference with Kronecker-sparse matrices"
 collection: talks
 type: "Talk"
 date: 2025-07-14
