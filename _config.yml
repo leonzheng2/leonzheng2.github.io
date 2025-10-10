@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Léon Zheng"
 title_separator          : "-"
 name                     : &name "Léon Zheng"
-description              : &description "PhD student"
+description              : &description "Researcher at Huawei"
 url                      : https://leonzheng2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leonzheng2/leonzheng2.github.io"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Léon Zheng"
   avatar           : "profile.jpg"
-  bio              : "PhD student at valeo.ai / ENS Lyon. <br> <i>leon.zheng [at] polytechnique [dot] org</i>"
-  location         : "Paris and Lyon, France"
+  bio              : "Researcher at Huawei. <br> <i>leon.zheng [at] polytechnique [dot] org</i>"
+  location         : "Paris, France"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=7gq9f6CfBnAC&hl"
   email            :
