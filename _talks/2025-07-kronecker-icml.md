@@ -3,6 +3,6 @@ title: "Fast Inference with Kronecker-Sparse Matrices"
 collection: talks
 type: "Talk"
 date: 2025-07-14
-date_text: "date_text: "<i><a href='https://icml.cc/Conferences/2025'>ICML 2025</a></i>, July 2025"
+date_text: "<i><a href='https://icml.cc/Conferences/2025'>ICML 2025</a></i>, July 2025"
 posterurl: "https://icml.cc/media/PosterPDFs/ICML%202025/45258.png?t=1751012902.623205"
 ---
