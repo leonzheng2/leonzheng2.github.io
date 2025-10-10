@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student at [valeo.ai](https://valeoai.github.io/blog/) and [École normale supérieure de Lyon](http://www.ens-lyon.fr/en/) ([LIP](http://www.ens-lyon.fr/LIP/), [Inria OKCHAM](https://team.inria.fr/ockham/)), under the supervision of [Rémi Gribonval](https://people.irisa.fr/Remi.Gribonval/), [Patrick Pérez](https://ptrckprz.github.io/), [Gilles Puy](https://sites.google.com/site/puygilles/) and [Elisa Riccietti](https://perso.ens-lyon.fr/elisa.riccietti/). I graduated from [École Polytechnique](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program) (X2016) and [Master M2 "Mathématiques, Vision, Apprentissage"](https://www.master-mva.com/) at ENS Paris-Saclay in 2020.
+I am a researcher at the Huawei Lagrange Mathematics and Computing Research Center in Paris. I completed my PhD in Computer Science in 2024 at [valeo.ai](https://valeoai.github.io/blog/) and [École normale supérieure de Lyon](http://www.ens-lyon.fr/en/) ([LIP](http://www.ens-lyon.fr/LIP/), [Inria OKCHAM](https://team.inria.fr/ockham/)), under the supervision of [Rémi Gribonval](https://people.irisa.fr/Remi.Gribonval/), [Patrick Pérez](https://ptrckprz.github.io/), [Gilles Puy](https://sites.google.com/site/puygilles/) and [Elisa Riccietti](https://perso.ens-lyon.fr/elisa.riccietti/). I graduated from [École Polytechnique](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program) (X2016) and [Master M2 "Mathématiques, Vision, Apprentissage"](https://www.master-mva.com/) at ENS Paris-Saclay in 2020.
 
-My current research is focused on sparse matrix factorization, butterfly factorization, neural network compression with sparsity, parameter-efficient fine-tuning, and self-supervised learning for image representations.
+My research topics include image inverse problems, parallel matrix multiplication, sparse matrix factorization, butterfly factorization, neural network compression with sparsity, parameter-efficient fine-tuning, and self-supervised learning for image representations.
 
 News:
+* 2025/07: I will participate to the 2025 ICML to present our [work](https://openreview.net/forum?id=RuMfpz8bTw&noteId=lJYM4tRHbs) on fast GPU inference with Kronecker-sparse matrices.
+* 2024/06/28: I will join the Huawei Lagrange Mathematics and Computing Research Center in Paris as a researcher.
 * 2024/05/29: I will defend my PhD thesis about "Data frugality and computational efficiency in deep learning" at ENS de Lyon.
 * 2023/09: I will present our [work](https://arxiv.org/abs/2307.00820) on butterfly factorization with unknown permutations at GRETSI 2023.
 * 2023/05: I will present our work on butterfly factorization at Université de Mons.
