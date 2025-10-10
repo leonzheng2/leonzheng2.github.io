@@ -4,5 +4,5 @@ title: "Efficient identification of butterfly sparse matrix factorizations"
 collection: journal
 date: 2022-10-10
 venue: 'SIAM Journal on Mathematics of Data Science'
-paperurl: 'https://hal.inria.fr/hal-03362626'
+paperurl: 'https://epubs.siam.org/doi/10.1137/22M1488727'
 ---
