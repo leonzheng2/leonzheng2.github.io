@@ -10,9 +10,15 @@ redirect_from:
 
 I am a researcher at the Huawei Lagrange Mathematics and Computing Research Center in Paris. I completed my PhD in Computer Science in 2024 at [valeo.ai](https://valeoai.github.io/blog/) and [École normale supérieure de Lyon](http://www.ens-lyon.fr/en/) ([LIP](http://www.ens-lyon.fr/LIP/), [Inria OKCHAM](https://team.inria.fr/ockham/)), under the supervision of [Rémi Gribonval](https://people.irisa.fr/Remi.Gribonval/), [Patrick Pérez](https://ptrckprz.github.io/), [Gilles Puy](https://sites.google.com/site/puygilles/) and [Elisa Riccietti](https://perso.ens-lyon.fr/elisa.riccietti/). I graduated from [École Polytechnique](https://programmes.polytechnique.edu/en/ingenieur-polytechnicien-program/ingenieur-polytechnicien-program) (X2016) and [Master M2 "Mathématiques, Vision, Apprentissage"](https://www.master-mva.com/) at ENS Paris-Saclay in 2020.
 
-My research topics include image inverse problems, parallel matrix multiplication, sparse matrix factorization, butterfly factorization, neural network compression with sparsity, parameter-efficient fine-tuning, and self-supervised learning for image representations.
+My research work focuses on mathematical and practical aspects of resource-efficient deep learning, including: 
+* *Butterfly factorization* to enable $\mathcal{O}(N \log N)$ fast algorithms for matrix multiplication
+* *Sparse neural networks* for inference acceleration on GPU using the butterfly structure
+* *Self-supervised learning* for visual representations without data annotation
+* *Parallel algorithm* for matrix multiplication on NPU architecture
+* *Diffusion models* for image inverse problems (super-resolution, deblurring, inpainting)
 
 News:
+* 2026/02: I will participate to the [2026 MBZUAI Machine Learning Winter School](https://mlws.mbzuai.ac.ae/) on representation learning and generative AI.
 * 2025/07: I will participate to the 2025 ICML to present our [work](https://openreview.net/forum?id=RuMfpz8bTw&noteId=lJYM4tRHbs) on fast GPU inference with Kronecker-sparse matrices.
 * 2024/06/28: I will join the Huawei Lagrange Mathematics and Computing Research Center in Paris as a researcher.
 * 2024/05/29: I will defend my PhD thesis about "Data frugality and computational efficiency in deep learning" at ENS de Lyon.
