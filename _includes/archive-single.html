@@ -62,7 +62,7 @@
 		{% endif %}
 		<br>
 		{{ post.location_text }}
-    {% elsif post.collection == 'preprint' or post.collection == 'journal' or post.collection == 'conference' %}
+    {% elsif post.collection == 'preprint' or post.collection == 'journal' or post.collection == 'conference' or post.collection == 'thesis' %}
         In <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}.
 		  	{% if post.paperurl and post.codeurl %}
 				<a href=" {{ post.paperurl }} "><u>Pdf</u></a>, <a href=" {{ post.codeurl }} "><u>Code</u></a>
