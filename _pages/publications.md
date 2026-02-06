@@ -11,6 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
+## PhD Thesis
+
+{% for post in site.thesis reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
 ## Journal
 
 {% for post in site.journal reversed %}
