@@ -172,6 +172,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
+  thesis:
+    output: true
+    permalink: /:collection/:path/
   preprint:
     output: true
     permalink: /:collection/:path/
