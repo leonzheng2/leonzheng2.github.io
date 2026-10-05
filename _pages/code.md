@@ -9,6 +9,8 @@ The code for most papers is available on <span style="color:blue">[Github](https
 
 # Measuring progress in diffusion language model pretraining
 
+![speedrun-dlm](/files/speedrun-dlm.png)
+
 **Code**: available <span style="color:blue">[here](https://github.com/agonon/speedrun-dlm)</span>.
 
 If you use this code, please cite the following paper: "Measuring progress in diffusion language model pretraining", A. Gonon, A. Müller, L. Zheng, C. Lalanne, Z. Shen, Y.-P. Hsieh, A. Bardou, N. Boumal, *NeurIPS 2026 Workshop: Beyond Next Token Prediction: Diffusion and Flow Models for Next-Generation Decoding*, 2026.
@@ -19,6 +21,8 @@ If you use this code, please cite the following paper: "Measuring progress in di
 
 
 # Fast inference with Kronecker-sparse matrices
+
+![ksmm](/files/ksmm.png)
 
 **Code**: available <span style="color:blue">[here](https://github.com/PascalCarrivain/ksmm)</span>.
 
