@@ -7,6 +7,28 @@ author_profile: true
 The code for most papers is available on <span style="color:blue">[Github](https://github.com/leonzheng2)</span>.
 
 
+# Measuring progress in diffusion language model pretraining
+
+**Code**: available <span style="color:blue">[here](https://github.com/agonon/speedrun-dlm)</span>.
+
+If you use this code, please cite the following paper: "Measuring progress in diffusion language model pretraining", A. Gonon, A. Müller, L. Zheng, C. Lalanne, Z. Shen, Y.-P. Hsieh, A. Bardou, N. Boumal, *NeurIPS 2026 Workshop: Beyond Next Token Prediction: Diffusion and Flow Models for Next-Generation Decoding*, 2026.
+
+<span style="color:blue">[Link to paper](https://openreview.net/forum?id=WLNBGbEQnV)</span>.
+
+**Description**: A speedrun benchmark for diffusion language models (DLMs): train a DLM on FineWeb as fast as possible, until it reaches a fixed HellaSwag target accuracy. The model (a 170M-parameter DDiT backbone), the data and the hardware are fixed, so submissions are comparable. The repository includes re-implementations of common diffusion training recipes and a leaderboard of training times.
+
+
+# Fast inference with Kronecker-sparse matrices
+
+**Code**: available <span style="color:blue">[here](https://github.com/PascalCarrivain/ksmm)</span>.
+
+If you use this code, please cite the following paper: "Fast inference with Kronecker-sparse matrices", A. Gonon, L. Zheng, P. Carrivain, Q. T. Le, *International Conference on Machine Learning* (ICML), PMLR 267:20075-20102, 2025.
+
+<span style="color:blue">[Link to paper](https://openreview.net/forum?id=RuMfpz8bTw)</span>.
+
+**Abstract**: Kronecker-sparse (KS) matrices—whose supports are Kronecker products of identity and all-ones blocks—underpin the structure of Butterfly and Monarch matrices and offer the promise of more efficient models. However, existing GPU kernels for KS matrix multiplication suffer from high data movement costs, with up to 50% of time spent on memory-bound tensor permutations. We propose a fused, output-stationary GPU kernel that eliminates these overheads, reducing global memory traffic threefold. Across 600 KS patterns, our kernel achieves in FP32 a median speedup of x1.4 and lowers energy consumption by 15%. A simple heuristic based on KS pattern parameters predicts when our method outperforms existing ones. We release all code at github.com/PascalCarrivain/ksmm, including a PyTorch-compatible KSLinear layer, and demonstrate in FP32 end-to-end latency reductions of up to 22% in ViT-S/16 and 16% in GPT-2 medium.
+
+
 # Self-supervised learning with rotation-invariant kernels
 
 ![sfrik](/files/sfrik.png)
