@@ -1,4 +1,4 @@
-# main links links
+# main links
 main:
   - title: "Publications"
     url: /publications/
@@ -8,21 +8,3 @@ main:
 
   - title: "Code"
     url: /code/
-
-  # - title: "GRandMa"
-  #   url: /grandma/
-
-  # - title: "Events"
-  #   url: /events/
-
-  # - title: "Portfolio"
-    # url: /portfolio/
-
-#  - title: "News"
- #   url: /year-archive/
-
-  # - title: "CV"
-    # url: /cv/
-
-  # - title: "Guide"
-    # url: /markdown/
