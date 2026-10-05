@@ -18,6 +18,7 @@ My research work focuses on mathematical and practical aspects of resource-effic
 * *Diffusion models* for image inverse problems (super-resolution, deblurring, inpainting)
 
 News:
+* 2026/10: Our [paper](https://openreview.net/forum?id=WLNBGbEQnV) on measuring progress in diffusion language model pretraining has been accepted at the NeurIPS 2026 workshop “Beyond Next Token Prediction.”
 * 2026/02: I will participate to the [2026 MBZUAI Machine Learning Winter School](https://mlws.mbzuai.ac.ae/) on representation learning and generative AI.
 * 2025/07: I will participate to the 2025 ICML to present our [work](https://openreview.net/forum?id=RuMfpz8bTw&noteId=lJYM4tRHbs) on fast GPU inference with Kronecker-sparse matrices.
 * 2024/06/28: I will join the Huawei Lagrange Mathematics and Computing Research Center in Paris as a researcher.
